@@ -7,7 +7,7 @@ Like I mentioned, I am not experienced with building drones. And this is my firs
 As a gesture of good-will to DroneMesh, I will leave his affiliate links in here. Please help support his work by using the links in this repo.
 
 Structure of this repo -
-- Hardware components that I ordered
+- (Hardware components that I ordered)[hardware.md]
 - Tools and other things not mentioned in the videos
 - Build (Getting ready)
 - Building the quad
