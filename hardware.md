@@ -8,10 +8,11 @@ For a newbie, getting started with building a quad might be slightly overwhelmin
 - [Rush Antenna](http://bit.ly/2SQ0ETp) - x1
 - [Mamba F405 stack](https://bit.ly/3eoL8qT) - x1
 - [Racer Nano](http://bit.ly/2L6Pzd8) - x1
-- [XT60](http://bit.ly/2T6oQQl) - x1
+- [XT60](http://bit.ly/2T6oQQl) - x1 (You don't need an extra XT60 Mamba provides you with one. Since these parts are cheap, it might make sense for you to buy them in bulk)
 - [Xm+ Receiver](http://bit.ly/2Kamywh) - x1
-- [Mamba LED strips]() - x1 (optional)
+- [X9-Lite Transceiver](https://bit.ly/2JtLJMm)
 - [LiPo battery](https://amzn.to/34XpdDV) - I went with these and they are working really well so far
 - [LiPo balance charger](https://amzn.to/3oZPBVF) - Really important for charging and discharing your LiPo
 - [LiPo bag](https://amzn.to/3oZPBVF) - Please use this when charging/discharging your LiPo
+- [Mamba LED strips](https://bit.ly/3evlrEX) - x1 (optional)
 - Please note that the Lipo balance charger does not come with an adapter. You will have to buy one of your own. I use a 12V 6A charging adapter and it does the work. Please be careful, do not buy ones that does not specify the output voltage and amps clearly.
