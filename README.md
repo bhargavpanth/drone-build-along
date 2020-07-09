@@ -9,7 +9,7 @@ As a gesture of good-will to DroneMesh, I will leave his affiliate links in here
 Structure of this repo -
 - [Hardware components that I ordered](hardware.md)
 - [Tools and other things not mentioned in the videos](tools.md)
-- Build (Getting ready)
+- [Build (Getting ready)](getting_ready.md)
 - Building the quad
 - Programming
 - Pit tuning and maiden flight
