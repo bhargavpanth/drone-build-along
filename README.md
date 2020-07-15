@@ -10,7 +10,7 @@ Structure of this repo -
 - [Hardware components that I ordered](hardware.md)
 - [Tools and other things not mentioned in the videos](tools.md)
 - [Build (Getting ready)](getting_ready.md)
-- Building the quad
+- [Building the quad](build.md)
 - Programming
 - Pit tuning and maiden flight
 - Extensions to the project
