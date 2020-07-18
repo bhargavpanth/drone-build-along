@@ -15,5 +15,6 @@ For a newbie, getting started with building a quad might be slightly overwhelmin
 - [LiPo balance charger](https://amzn.to/3oZPBVF) - Really important for charging and discharing your LiPo
 - [LiPo bag](https://amzn.to/3oZPBVF) - Please use this when charging/discharging your LiPo
 - [18650 battery](https://amzn.to/3jZJRre) - Required for the Transceiver
+- [Multimeter](https://amzn.to/3eon9rO) - This will help you catch and debug any shortings on the board. Put it in continuity mode and run this across the soldered points.
 - [Mamba LED strips](https://bit.ly/3evlrEX) - x1 (optional)
 - Please note that the Lipo balance charger does not come with an adapter. You will have to buy one of your own. I use a 12V 6A charging adapter and it does the work. Please be careful, do not buy ones that does not specify the output voltage and amps clearly.

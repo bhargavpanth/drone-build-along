@@ -9,3 +9,11 @@ Get the frame ready. The frame itself comes with several different screws and th
 ![Added motors to the blades](added_motors.jpg)
 
 ![Frame ready](frame_ready.jpg)
+
+---
+
+Since I started bottom-up - adding frame base, attaching motors and soldering it to the ESC, I realised that the length of the wire is way too long. This is where I made my first mistake. Instead of adjusting the length of the wire (in fear of cutting it short), I soldered it directly onto the ESC. Overall the build quality was looking good at this stage with no shorting. To check if you have a short in your connections, I encourage you to buy yourself a multi-meter. I will update the tools list with this. Multi-meter will save you hundreds of £ by just investing 15-20£ on a decent multi-meter.
+
+![Unmeasured wiring](unmeasured_wiring.jpg)
+
+---
