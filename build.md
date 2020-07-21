@@ -17,3 +17,15 @@ Since I started bottom-up - adding frame base, attaching motors and soldering it
 ![Unmeasured wiring](unmeasured_wiring.jpg)
 
 ---
+
+The Mamba stack has two components - ESC (Electronic Speed Controller) and the Flight Controller. Soldering wires to the ESC is straight-forward. It consists of pads where each of the wires can be soldered onto. Soldering on the ESC is slightly time-consuming, so keep at it for a little while. Since the ESC has a very high rate of heat dissipation, solder iron needs to be kept on it for a few seconds before you start applying the solder on. The challenge however is when you solder the XT receiver. The model that I bought ended up having pins instead of wires. This meant that I needed an extra adapter to that would bite onto the pin and the leads could be soldered onto the flight controller. I instead decided to solder the wiring on the receiver myself and it ended up looking decent. Be sure to change your soldering tip to a thinner one for soldering these points.
+
+![Mamba stack](mamba_stack.jpg)
+
+Within the Mamba stack, they also provide a capacitor and the XT-60. Be careful to NOT short these two connections when you solder them. This is a bad short circuit and will probably explode the moment you connect your LiPo battery. Again, multimeter to the rescue :) ! Put the multimeter in continuity mode to check if there is a direct shorting between the capacitor and the XT-60 leads.
+
+After trimming the extra length, I could finish the build process of this quad. The overall build quality is not that impressive since I made a few errors initially - wiring trimmings. But, nevertheless, the quad is functional and seems to be alright. Here's a picture of the final build (almost).
+
+![Almost final](drone-final.jpg)
+
+---
