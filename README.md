@@ -13,4 +13,6 @@ Structure of this repo -
 - [Building the quad](build.md)
 - Programming
 - Pit tuning and maiden flight
-- Extensions to the project
+- [Extensions to the project](https://github.com/bhargavpanth/VGG-based-models)
+
+Note - This repo is being updated as and when I make updates on the build
